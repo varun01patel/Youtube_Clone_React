@@ -6,7 +6,7 @@ const options = {
     
     params: {
       hl: 'en',
-      gl: 'US'
+      gl: 'IN'
     },
     headers: {
       'X-RapidAPI-Key': process.env.REACT_APP_yOUTUBE_API_KEY,
